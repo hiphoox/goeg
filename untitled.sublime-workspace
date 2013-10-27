@@ -1,0 +1,402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"main	main()"
+			],
+			[
+				"cla",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"st",
+				"sta"
+			],
+			[
+				"sat",
+				"status"
+			],
+			[
+				"Diverza",
+				"DiverzaSmart"
+			],
+			[
+				"se",
+				"send_to"
+			],
+			[
+				"def",
+				"def	def"
+			],
+			[
+				"Fiz",
+				"FizzBuzz"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"NS",
+				"NSApplication"
+			],
+			[
+				"nib",
+				"nib_text"
+			],
+			[
+				"main",
+				"main_txt"
+			],
+			[
+				"end",
+				"endif"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"taks",
+				"Tasks: New document"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remoce",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"eli",
+				"Set Syntax: Elixir"
+			],
+			[
+				"gist",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hiphoox/Development/Go/goeg/.gitignore",
+		"/Users/hiphoox/Development/Objective-C/.gitignore",
+		"/Users/hiphoox/Development/Go/book/bigdigits/bigdigits_test.go",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hiphoox/Development/Elixir/test_bed/lib/fact_tr.ex",
+		"/Users/hiphoox/Documents/Courses/Classes/AdvancediOS-Spanish-Slides/02_Segue/slides.show/show.xml",
+		"/Users/hiphoox/Development/Ruby/factura.rb",
+		"/Volumes/REBOOT/Roadmap-Elixir",
+		"/Users/hiphoox/.config/fish/config.fish",
+		"/Users/hiphoox/Development/C++/fish-shell/README.md",
+		"/Users/hiphoox/Development/Elixir/test_bed/mix.exs",
+		"/Users/hiphoox/Development/rubymotion/SmartReaderDemo/vendor/diverza/DiverzaSmart.h",
+		"/Users/hiphoox/Development/Elixir/nodes/Tick",
+		"/Users/hiphoox/Development/Elixir/nodes/do",
+		"/Users/hiphoox/Development/Ruby/ruby/lib/set.rb",
+		"/Users/hiphoox/Development/rubymotion/RubyMotionSamples/ios/Timer/resources/default.css",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Packages/Elixir/Elixir.sublime-build",
+		"/Users/hiphoox/Development/Elixir/home.ex",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Installed Packages/Elixir.sublime-package",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Packages/Package Control/Default.sublime-commands",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/hiphoox/Development/rubymotion/private/RubyMotionSamples/osx/Spotlight/app/borrar.rb",
+		"/Users/hiphoox/Development/rubymotion/private/RubyMotionSamples/osx/Spotlight/borrar.rb",
+		"/Users/hiphoox/Development/rubymotion/private/RubyMotionSamples/osx/Spotlight/example.rb",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Packages/Ruby/Ruby.sublime-build",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Packages/User/Ruby.sublime-build",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Default/Preferences (OSX).sublime-settings",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Library/RubyMotion/lib/motion/project/xcode_config.rb",
+		"/Library/RubyMotion/lib/motion/project/template/osx/config.rb",
+		"/Library/RubyMotion/lib/motion/project/builder.rb",
+		"/Library/RubyMotion/lib/motion/project/config.rb",
+		"/Users/hiphoox/Development/rubymotion/private/RubyMotionSamples/osx/Spotlight/.la",
+		"/Library/RubyMotion/lib/motion/project/template/osx.rb",
+		"/Users/hiphoox/Desktop/config-nib.rb",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 3/Packages/User/Preferences (OSX).sublime-settings",
+		"/Users/hiphoox/Library/Application Support/Sublime Text 2/Packages/Default/Preferences (OSX).sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CDOL2",
+			"ismart",
+			"charge_button",
+			"imprimiendo",
+			"state",
+			"path",
+			"one",
+			"hola",
+			"forward_slash",
+			"def",
+			"asdads",
+			"asd",
+			"asdads",
+			"def",
+			"defmacrook",
+			"def",
+			"defmacrook",
+			"toggle_side_bar",
+			"esc",
+			"vim",
+			"defmacro",
+			"main_cpp_file_txt",
+			"main.mm",
+			"setDelegate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 130.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"timer",
+				"app/timer_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+		],
+		"width": 476.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
