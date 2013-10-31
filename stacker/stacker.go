@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"stacker/stack"
+	"github.com/hiphoox/goeg/stacker/stack"
 	"strings"
 )
 
